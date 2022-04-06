@@ -1,4 +1,4 @@
-public class MyFirstJavaClass {
+public class MySecondJavaClass {
     public static void main(String args[]){
         System.out.println("this is my first java program");
 		if(1 ==2 )
