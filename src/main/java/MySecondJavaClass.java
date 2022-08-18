@@ -1,6 +1,6 @@
-public class MyFirstJavaClass {
+public class MySecondJavaClass {
     public static void main(String args[]){
-        System.out.println("this is my first java program");
+        System.out.println("this is my second java program");
 		if(1 ==2 )
 		{
 			System.out.println(" 1 is equal to 2 may be wrong");
